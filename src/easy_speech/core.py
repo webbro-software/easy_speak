@@ -11,8 +11,3 @@ def easy_speech(text, lang="en"):
         pygame.mixer.music.play()
         while pygame.mixer.music.get_busy():
             continue
-
-if __name__ == "__main__":
-    print("What should I say?")
-    text = input(">> ")
-    easy_speech(text, "ru")
