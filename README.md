@@ -1,15 +1,15 @@
 # **easy_speak**
 
-`easy_speech` is a simple and efficient text-to-speech (TTS) package that converts text into speech and plays it instantly without saving audio files.
+`easy_speak` is a lightweight and efficient text-to-speech (TTS) package that allows you to convert text into speech and play it instantly without saving audio files. It provides a simple way to integrate speech synthesis into Python applications.
 
 ---
 
 ## **Installation**
 
-To install `easy_speech`, run:
+To install `easy_speak`, run:
 
 ```sh
-pip install easy_speech
+pip install easy_speak
 ```
 
 For local development, install it in editable mode:
@@ -25,23 +25,23 @@ pip install -e .
 ### **Basic Example**
 
 ```python
-from easy_speech import easy_speech
+from easy_speak import easy_speak
 
 # Convert text to speech and play it
-easy_speech("Hello, welcome to easy_speech!")
+easy_speak("Hello, welcome to easy_speak!")
 ```
 
 ### **Change Language**
 
 ```python
-easy_speech("Hola, bienvenido a easy_speech!", lang="es")
+easy_speak("Hola, bienvenido a easy_speak!", lang="es")
 ```
 
 ---
 
 ## **Function Reference**
 
-### **easy_speech(text, lang="en")**
+### **easy_speak(text, lang="en")**
 
 Converts the given text into speech and plays it immediately.
 
