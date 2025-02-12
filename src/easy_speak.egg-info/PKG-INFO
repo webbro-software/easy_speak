@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: easy_speak
+Version: 0.1.0
+Summary: Effortless and powerful text-to-speech conversion for Python applications.
+Home-page: https://github.com/webbro-software/gcd-calculator
+Author: Usmonov Shoxruxmirzo
+Author-email: usmonovshohruxmirzo@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # **easy_speak**
 
 `easy_speak` is a lightweight and efficient text-to-speech (TTS) package that allows you to convert text into speech and play it instantly without saving audio files. It provides a simple way to integrate speech synthesis into Python applications.
@@ -75,7 +89,7 @@ Contributions are welcome! To contribute:
    ```
 5. Open a pull request.
 
-Feel free to report issues and suggest improvements!
+Feel free to report issues and suggest improvements! рџљЂ
 
 ---
 
