@@ -2,7 +2,7 @@ import io
 import pygame
 from gtts import gTTS
 
-def easy_speech(text, lang="en"):
+def easy_speak(text, lang="en"):
     with io.BytesIO() as file:
         gTTS(text=text, lang=lang).write_to_fp(file)
         file.seek(0)

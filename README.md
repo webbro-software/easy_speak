@@ -1,4 +1,4 @@
-# **easy_speech**
+# **easy_speak**
 
 `easy_speech` is a simple and efficient text-to-speech (TTS) package that converts text into speech and plays it instantly without saving audio files.
 
