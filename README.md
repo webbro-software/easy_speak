@@ -81,4 +81,4 @@ Feel free to report issues and suggest improvements! 🚀
 
 ## **License**
 
-MIT License.
+MIT [License](./LICENSE).
