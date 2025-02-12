@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: easy_speak
-Version: 0.1.0
+Version: 0.1.1
 Summary: Effortless and powerful text-to-speech conversion for Python applications.
 Home-page: https://github.com/webbro-software/gcd-calculator
 Author: Usmonov Shoxruxmirzo
@@ -89,7 +89,7 @@ Contributions are welcome! To contribute:
    ```
 5. Open a pull request.
 
-Feel free to report issues and suggest improvements! рџљЂ
+Feel free to report issues and suggest improvements!
 
 ---
 
