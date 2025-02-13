@@ -82,3 +82,7 @@ Feel free to report issues and suggest improvements!
 ## **License**
 
 MIT [License](./LICENSE).
+
+--- 
+
+[![PyPI Downloads](https://static.pepy.tech/badge/easy-speak)](https://pepy.tech/projects/easy-speak)
